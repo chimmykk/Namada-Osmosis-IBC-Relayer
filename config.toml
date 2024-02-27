@@ -393,6 +393,8 @@ memo_prefix = ''
 # This will override the global clear interval for this chain only, allowing different intervals for each chain.
 # clear_interval = 50
 
+
+# Tbis is an example reference for the config file >> Dedicate config file is ~/hermes/config.toml hidden when project is build --cargo --bin release
 [[chains]]
 id = 'ibc-1'
 type = "CosmosSdk"
